@@ -9,5 +9,5 @@
   >f.generate 
   
 ### 3.VS打开OpenCV.sln  
-  >ALL_BUILD->生成  
-  >INSTALL->点击“仅用于项目->仅生成INSTALL”  
+  > + ALL_BUILD->生成  
+  > + INSTALL->点击“仅用于项目->仅生成INSTALL”  
