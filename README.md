@@ -6,7 +6,7 @@
   >b.第二项，在OPENCV_EXTRA_MODULES_PATH选项中，填写opencv_contrib解压目录下，modules文件夹的路径，这样就把opencv_contrib编译进去了。  
   >c.增加勾选OPENCV_ENABLE_NONFREE  
   >d.configure  
-  + f.generate 
+  > + f.generate 
   
 ### 3.VS打开OpenCV.sln  
   > + ALL_BUILD->生成  
